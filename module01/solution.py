@@ -3,7 +3,7 @@ def f_c(X):
     return 4
     
 def f_x(x, a, b):
-    ''' returns as a result the number a linear equation '''
+    ''' returns the result of a solution of a linear equation '''
     return a * x + b
     
 def sum(x):
